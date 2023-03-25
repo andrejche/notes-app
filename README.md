@@ -1,7 +1,8 @@
 # Notes App
 
-A simple notes app built with React that allows users to create, save, view, edit, and delete notes stored in the browser's local storage.
-Installation
+A simple notes app built with React that allows users to create, save, view and delete notes stored in the browser's local storage.
+
+# Installation
 
 Clone the repository and run `npm install` to install dependencies. Run `npm start` to start the app in development mode.
 
